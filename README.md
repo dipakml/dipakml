@@ -6,7 +6,7 @@
      
 -👨‍💻 All of my projects are available at [Github](https://github.com/dipakml?tab=repositories)
 
-- 🌱 I’m currently working on **Developing end to end Machine learning projects**
+- 🌱 I’m currently working on **Developing end to end Machine learning projects with Mlops**
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
