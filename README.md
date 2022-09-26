@@ -1,12 +1,10 @@
-[![MasterHead](https://img.freepik.com/free-photo/businessman-pointing-his-presentation-futuristic-digital-screen_53876-102617.jpg?size=626&ext=jpg&ga=GA1.2.120273305.1664176886)
-
-
 
 <h1 align="center">Hi 👋, I'm Dipak Argade</h1>
 <h3 align="center">A passionate Data Science & Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/dipakml?tab=repositories)
+     
+-👨‍💻 All of my projects are available at [Github](https://github.com/dipakml?tab=repositories)
 
 - 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
