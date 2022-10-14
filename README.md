@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
--👨‍💻 All of my projects are available at [Github](https://github.com/dipakml?tab=stars)
+-👨‍💻 All of my projects are available at [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
 
 - 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
