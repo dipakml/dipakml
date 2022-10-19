@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dipak Argade</h1>
-<h3 align="center">A passionate Data Science & Machine Learning Engineer from India</h3>
+<h3 align="center"> Mechanical Engineer with competitive experience in Machine Design & Analysis, Data Analysis, Failure prediction, Root Cause Analysis</h3>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
