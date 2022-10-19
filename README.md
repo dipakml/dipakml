@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
--👨‍💻 All of my projects are available at [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
+👨‍💻 Review my Machine Learning projects at [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
 
-- 🌱 I’m currently working on **Developing end to end Machine learning projects**
+🌱 I’m currently working on **Developing end to end Machine learning projects**
 
-- 💬 Ask me about **Data Science & Machine Learning**
+💬 Ask me about **Data Science & Machine Learning**
 
-- 📫 You can reach me at my personal Email ID: **argadedipak@gmail.com**
+📫 You can reach me at my personal Email ID: **argadedipak@gmail.com**
 
-- 📄 Know about my experience & connect me via [LinkedIn](https://www.linkedin.com/in/dipak-argade-a9b03834/)
+📄 Know about my experience & connect me via [LinkedIn](https://www.linkedin.com/in/dipak-argade-a9b03834/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
