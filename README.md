@@ -5,6 +5,8 @@
 
      
 👨‍💻 Review my Machine Learning projects at [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
+     
+👨‍💻 Mathematical Optimization using Gurobi optimization [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
 
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
