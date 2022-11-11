@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
-👨‍💻 Review my Machine Learning projects at [Github](https://github.com/stars/dipakml/lists/machine-learning-projects)
+👨‍💻 Review my Machine Learning projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-projects)
      
-👨‍💻 Mathematical Optimization using Gurobi optimization [MO](https://github.com/stars/dipakml/lists/mathematical-optimization)
+👨‍💻 Mathematical Optimization using Python, Pyomo & Gurobi optimization [Click here](https://github.com/stars/dipakml/lists/mathematical-optimization)
 
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
