@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
-👨‍💻 Review my Machine Learning & Generative AI projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-projects)
+👨‍💻 Review my Machine Learning & Generative AI projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-genai-projects)
 
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
