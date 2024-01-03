@@ -6,6 +6,8 @@
      
 👨‍💻 Review my Machine Learning & Generative AI projects at [Click here](https://github.com/stars/dipakml/lists/ml-genai-projects)
 
+👨‍💻 Review all my DS-ML projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-genai-projects)
+
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
 💬 Ask me about **Data Science & Machine Learning**
