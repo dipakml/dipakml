@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dipak Argade</h1>
-<h3 align="center"> Data Science Professional with 11+ years of competitive experience in Predictive analytics, Data driven Machine Design & Analysis, Business Forecasting & Root Cause Analysis.</h3>
+<h3 align="center"> Data Science Professional with 13+ years of competitive experience in Predictive analytics, Data Science-Machine Learning, Generative AI, Data driven Machine Design & Analysis, Business Forecasting & Root Cause Analysis.</h3>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
 
      
@@ -10,7 +10,7 @@
 
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
-💬 Ask me about **Data Science & Machine Learning**
+💬 Ask me about **Data Science-Machine Learning, Generative AI**
 
 📫 You can reach me at my personal Email ID: **argadedipak@gmail.com**
 
