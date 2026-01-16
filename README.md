@@ -8,7 +8,7 @@
 
 👨‍💻 Review all my DS-ML projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-genai-projects)
 
-🌱 I’m currently working on **Developing end to end Machine learning projects**
+🌱 I’m currently working on **Developing end to end AI-DS-ML projects**
 
 💬 Ask me about **Data Science-Machine Learning, Generative AI**
 
